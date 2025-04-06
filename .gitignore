@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Database or Cache (if any)
+*.sqlite3
+instance/
+*.db
+
+# Flask specific
+*.env
+.env
+flask_session
